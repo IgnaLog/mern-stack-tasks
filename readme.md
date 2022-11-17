@@ -1,4 +1,4 @@
-# MERN Stack Task App
+# MERN Stack Tasks App
 
 This application belongs to the set of tutorials made with React.
 
